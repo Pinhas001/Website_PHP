@@ -1,0 +1,92 @@
+.navbar-custom{
+    background-color: rgb(0, 123, 192);
+}
+
+.corfooter{
+    background-color: rgb(0, 123, 192);
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.navbar-nav {
+    float:none;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+}
+
+.navbar-nav > li {
+    display: inline-block;
+    float:none;
+}
+
+.navbar-nav > li{
+    padding-left:20px;
+    padding-right:20px;
+}
+
+.navbar-brand{
+  font-size: 25px;
+  padding-left: 80px;
+}
+
+.btn{
+    margin-right: -20px;
+}
+
+.custom-toggler.navbar-toggler {
+    border-color: rgb(255,255,255);
+} 
+
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgb(255,255,255)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.body{
+    margin-left: 20px;
+    margin-top: 10px;
+   
+}
+
+.resize
+{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.icon
+{
+    width: 200px;
+    height: 210px;
+    border-radius: 100%;
+}
+
+.icon2
+{
+    width: 200px;
+    height: 210px;
+   
+}
+
+p{
+    text-indent: 20px;
+}
+
+a:link {
+    color: rgb(0, 123, 192);
+    text-decoration: none;
+}
+  
+a:visited {
+    text-decoration: none;
+}
+  
+a:hover {
+    color: rgb(12, 184, 12);
+    text-size-adjust: 30px;
+}
+  
+a:active {
+    color: blue;
+    text-decoration: none;
+}
